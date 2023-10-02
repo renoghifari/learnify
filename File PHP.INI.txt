@@ -1,0 +1,6 @@
+1. Masuk Ke Folder xampp/php/php.ini (File Php Configurasi) 
+2. Ubah File File Seperti Bawah Ini
+3. max_execution_time=100 => time upload
+4.memory_limit = 128M => default
+5. post_max_size = 50M => size Post
+6. upload_max_filesize=50M => Size Upload

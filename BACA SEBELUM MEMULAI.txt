@@ -1,0 +1,5 @@
+1.Pertama tama agar bisa mengupload file maka harus mengubah file Php.ini
+File sudah ada di folder ini
+2.Batas Upload File Dibawah 20MB untuk berjaga jaga agar dapat di upload
+				
+					Sekian Terimakasih :)
